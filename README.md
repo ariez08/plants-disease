@@ -1,5 +1,3 @@
-# Capstone_ML
-
 ## Dataset 
 We have gathered a wide variety of data about the plants available on Kaggle, in total we have collected 15 types of plants and their respective diseases. However, the dataset as a whole is still unbalanced due to the limitations of the data available in the public dataset. To avoid highly biased models, we and our advisor decided to split the dataset into subsets which currently only support 2 plants: Chili and Tomato. All plant details regarding plant names, short descriptions, along with diseases are available on our Google Spreadsheet.
 
@@ -24,4 +22,5 @@ Disease Model Accuracy (train/val)% :
 * Chili (87/90)
 * Tomato (93/77)
 
-**the accuracy percentages would and may be changed overtime
+* the accuracy percentages would and may be changed overtime
+** this repo is reuploaded and beforely used in capstone project Bangkit Academy 2023
