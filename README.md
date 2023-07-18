@@ -22,5 +22,6 @@ Disease Model Accuracy (train/val)% :
 * Chili (87/90)
 * Tomato (93/77)
 
+###### Notes
 * the accuracy percentages would and may be changed overtime
-** this repo is reuploaded and beforely used in capstone project Bangkit Academy 2023
+* this repo is reuploaded and beforely used in capstone project Bangkit Academy 2023
